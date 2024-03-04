@@ -52,4 +52,4 @@
 
 ![img](minta/5.png)
 ![img](minta/6.png)
-![img](minta/7.png)
+![img](minta/minta10.png)
