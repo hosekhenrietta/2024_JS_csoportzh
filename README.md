@@ -50,6 +50,6 @@
     -	A Kiválasztott számokat írd ki a task1 azonosítójú elembe vesszővel-szóközzel tagolva, emelkedő sorrendbe, ahogyan a mintán látható! (1 pont)
     -	Az előzővel egyidejűleg a task2 azonosítójú elembe írd ki a 3-mal osztható számok darabszámát. (0,5 pont)
 
-![img](minta/mint12.png)
+![img](minta/minta12.png)
 ![img](minta/minta11.png)
 ![img](minta/minta10.png)
