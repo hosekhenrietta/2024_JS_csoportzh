@@ -1,5 +1,5 @@
 # Webprogramozás -- JavaScript csoportzh 
-(15-ös csoport)
+(esti csoport)
 
 ## Tudnivalók
 
